@@ -11,6 +11,11 @@
    hydra -l <username> -P <password_list> <target> <protocol>
 🔹echo Defination :
    echo is a built-in command used to print text or variables to the standard output (usually the terminal screen)
+ * Syntax :
+   echo [option(s)] [string(s)]
+ * Example :
+   echo "Hello, Kali Linux!"
+
 🔹 bin Definition :
     In Linux, bin is short for binary, and it typically refers to directories like /bin or /usr/bin that contain essential binary executable files—programs that the system can run. These binaries are compiled          applications and command-line utilities (e.g., ls, cp, mv, bash) that are necessary for the basic functioning of the system.
  * Syntax:
